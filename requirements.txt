@@ -1,0 +1,6 @@
+torch
+opencv-python
+deep_sort_realtime
+torchvision
+ultralytics
+seaborn
