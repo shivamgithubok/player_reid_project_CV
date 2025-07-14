@@ -1,3 +1,4 @@
+before starting put pretraied model to the models file 
 # player_reid_project_CV
 first make virtual invertment
 by code:- 
